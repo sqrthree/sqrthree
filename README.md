@@ -1,1 +1,1 @@
-<h1 align="center">👉 Moved to github.com/linhe0x0</h1>
+<h1 align="center">👉 Moved to https://github.com/linhe0x0</h1>
